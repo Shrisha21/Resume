@@ -29,7 +29,7 @@ export default class Skills extends Component {
         <li>
           <p><u>X : SSLC</u>
           </p>
-          <p>Sri Mahaveer Vidhyalaya(2014)</p>
+          <p>Sri Mahaveer Vidhyalaya (2014)</p>
           <p>Percentage : 92.46%</p>
         </li>
       </ul>
